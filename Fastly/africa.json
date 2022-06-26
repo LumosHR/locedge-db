@@ -1,1 +1,1 @@
-[{"city":"cape town","cdn":[{"name":"Fastly","code":["CPT"]}],"coordinates":[18.4241,-33.9249]},{"city":"johannesburg","cdn":[{"name":"Fastly","code":["JNB"]}],"coordinates":[28.0473,-26.2041]}]
+[{"city":"cape town","cdn":[{"name":"Fastly","code":["CPT"]}],"coordinates":[18.4241,-33.9249],"size":4},{"city":"johannesburg","cdn":[{"name":"Fastly","code":["JNB"]}],"coordinates":[28.0473,-26.2041],"size":10}]
