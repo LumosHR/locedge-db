@@ -1,0 +1,1189 @@
+[
+    {
+        "name": "amsterdam",
+        "continent": "EU",
+        "coordinates": [
+            4.9041,
+            52.3676
+        ],
+        "cdn": {
+            "CloudFront": [
+                "ams"
+            ],
+            "ArvanCloud": [
+                "6250"
+            ],
+            "Tata": [
+                "ams"
+            ],
+            "Fastly": [
+                "AMS"
+            ],
+            "Edgecast": [
+                "ama",
+                "amb",
+                "amc",
+                "amm",
+                "amn",
+                "ams",
+                "rtm"
+            ],
+            "Limelight": [
+                "ams"
+            ],
+            "Sucuri": [
+                "19"
+            ],
+            "Bunny": [
+                "ams1"
+            ],
+            "G-Core": [
+                "am3",
+                "dra4"
+            ],
+            "CDN77": [
+                "amsterdamnl"
+            ],
+            "StackPath": [
+                "am"
+            ],
+            "KeyCDN": [
+                "nlam"
+            ],
+            "CacheFly": [
+                "ams"
+            ],
+            "Cloudflare": [
+                "AMS"
+            ]
+        }
+    },
+    {
+        "name": "frankfurt",
+        "cdn": {
+            "ArvanCloud": [
+                "6150"
+            ],
+            "KeyCDN": [
+                "defr"
+            ],
+            "Sucuri": [
+                "15"
+            ],
+            "StackPath": [
+                "fr"
+            ],
+            "Tata": [
+                "fra"
+            ],
+            "G-Core": [
+                "fr5",
+                "drf"
+            ],
+            "CDN77": [
+                "frankfurtde"
+            ],
+            "Fastly": [
+                "FRA",
+                "HHN"
+            ],
+            "Beluga": [
+                "f810b870-cf00-49a4-849e-b43c6508c284"
+            ],
+            "Cloudflare": [
+                "FRA"
+            ],
+            "Edgecast": [
+                "frb",
+                "frc",
+                "frd",
+                "fcn",
+                "fra",
+                "frf"
+            ],
+            "CacheFly": [
+                "fra"
+            ],
+            "Limelight": [
+                "fra"
+            ],
+            "CloudFront": [
+                "fra"
+            ]
+        },
+        "continent": "EU",
+        "coordinates": [
+            8.6821,
+            50.1109
+        ]
+    },
+    {
+        "name": "london",
+        "coordinates": [
+            -0.1276,
+            51.5072
+        ],
+        "continent": "EU",
+        "cdn": {
+            "Cloudflare": [
+                "LHR"
+            ],
+            "Beluga": [
+                "343e84e1-2c88-4555-9141-cd1a8cf0d439"
+            ],
+            "Bunny": [
+                "uk1"
+            ],
+            "StackPath": [
+                "lo"
+            ],
+            "Limelight": [
+                "lhr"
+            ],
+            "Edgecast": [
+                "lcy",
+                "lha",
+                "lhb",
+                "lhc",
+                "lhd",
+                "lhm",
+                "lhn",
+                "lhr"
+            ],
+            "CacheFly": [
+                "lon"
+            ],
+            "Fastly": [
+                "LCY",
+                "LHR",
+                "LON"
+            ],
+            "KeyCDN": [
+                "uklo"
+            ],
+            "Tata": [
+                "lhr"
+            ],
+            "CloudFront": [
+                "lhr"
+            ],
+            "CDN77": [
+                "londongb"
+            ],
+            "G-Core": [
+                "thn2",
+                "tl"
+            ],
+            "Sucuri": [
+                "13"
+            ]
+        }
+    },
+    {
+        "name": "paris",
+        "coordinates": [
+            2.3522,
+            48.8566
+        ],
+        "cdn": {
+            "CacheFly": [
+                "cdg"
+            ],
+            "CDN77": [
+                "parisfr"
+            ],
+            "CloudFront": [
+                "cdg"
+            ],
+            "Fastly": [
+                "CDG"
+            ],
+            "Bunny": [
+                "fr1"
+            ],
+            "G-Core": [
+                "pa5",
+                "tp"
+            ],
+            "KeyCDN": [
+                "frpa"
+            ],
+            "StackPath": [
+                "pa"
+            ],
+            "Limelight": [
+                "cdg"
+            ],
+            "Cloudflare": [
+                "CDG"
+            ],
+            "Beluga": [
+                "517dfc57-3a4f-42a3-aa21-401de2cf91a4"
+            ],
+            "Tata": [
+                "cdg"
+            ],
+            "Edgecast": [
+                "paa",
+                "pab",
+                "cdg",
+                "ory",
+                "pox"
+            ]
+        },
+        "continent": "EU"
+    },
+    {
+        "name": "milan",
+        "cdn": {
+            "CacheFly": [
+                "mxp"
+            ],
+            "KeyCDN": [
+                "itmi"
+            ],
+            "CDN77": [
+                "milanit"
+            ],
+            "G-Core": [
+                "ml2"
+            ],
+            "Cloudflare": [
+                "MXP"
+            ],
+            "ArvanCloud": [
+                "6650"
+            ],
+            "Limelight": [
+                "mxp"
+            ],
+            "StackPath": [
+                "ml"
+            ],
+            "Edgecast": [
+                "mil",
+                "mxp"
+            ],
+            "Bunny": [
+                "it1"
+            ],
+            "CloudFront": [
+                "mxp"
+            ],
+            "Fastly": [
+                "LIN",
+                "MXP"
+            ]
+        },
+        "continent": "EU",
+        "coordinates": [
+            9.19,
+            45.4642
+        ]
+    },
+    {
+        "name": "madrid",
+        "continent": "EU",
+        "cdn": {
+            "CacheFly": [
+                "mad"
+            ],
+            "StackPath": [
+                "ma"
+            ],
+            "Cloudflare": [
+                "MAD"
+            ],
+            "G-Core": [
+                "md2",
+                "cm"
+            ],
+            "Edgecast": [
+                "mdr",
+                "mad",
+                "toj"
+            ],
+            "CloudFront": [
+                "mad"
+            ],
+            "Limelight": [
+                "mad"
+            ],
+            "Fastly": [
+                "MAD"
+            ],
+            "Bunny": [
+                "es1"
+            ],
+            "KeyCDN": [
+                "esma"
+            ],
+            "CDN77": [
+                "madrides"
+            ]
+        },
+        "coordinates": [
+            -3.7038,
+            40.4168
+        ]
+    },
+    {
+        "name": "stockholm",
+        "cdn": {
+            "Bunny": [
+                "se1"
+            ],
+            "CloudFront": [
+                "arn"
+            ],
+            "KeyCDN": [
+                "sest"
+            ],
+            "Fastly": [
+                "BMA"
+            ],
+            "G-Core": [
+                "sto5"
+            ],
+            "StackPath": [
+                "sk"
+            ],
+            "Limelight": [
+                "arn"
+            ],
+            "CacheFly": [
+                "arn"
+            ],
+            "Edgecast": [
+                "ska",
+                "sto",
+                "arn"
+            ],
+            "Cloudflare": [
+                "ARN"
+            ],
+            "CDN77": [
+                "stockholmse"
+            ]
+        },
+        "coordinates": [
+            18.0686,
+            59.3293
+        ],
+        "continent": "EU"
+    },
+    {
+        "name": "warsaw",
+        "cdn": {
+            "CloudFront": [
+                "waw"
+            ],
+            "Cloudflare": [
+                "WAW"
+            ],
+            "StackPath": [
+                "wa"
+            ],
+            "ArvanCloud": [
+                "6050"
+            ],
+            "CDN77": [
+                "warsawpl"
+            ],
+            "G-Core": [
+                "pl1"
+            ],
+            "KeyCDN": [
+                "plwa"
+            ],
+            "Edgecast": [
+                "wmi",
+                "waw"
+            ],
+            "CacheFly": [
+                "waw"
+            ],
+            "Bunny": [
+                "pl1"
+            ]
+        },
+        "coordinates": [
+            21.0122,
+            52.2297
+        ],
+        "continent": "EU"
+    },
+    {
+        "name": "vienna",
+        "cdn": {
+            "Cloudflare": [
+                "VIE"
+            ],
+            "Limelight": [
+                "vie"
+            ],
+            "Edgecast": [
+                "via",
+                "vie"
+            ],
+            "Fastly": [
+                "VIE"
+            ],
+            "CDN77": [
+                "viennaat"
+            ],
+            "Bunny": [
+                "at1"
+            ],
+            "CacheFly": [
+                "vie"
+            ],
+            "CloudFront": [
+                "vie"
+            ],
+            "KeyCDN": [
+                "atvi"
+            ]
+        },
+        "coordinates": [
+            16.3738,
+            48.2082
+        ],
+        "continent": "EU"
+    },
+    {
+        "name": "bucharest",
+        "continent": "EU",
+        "cdn": {
+            "CloudFront": [
+                "otp"
+            ],
+            "Cloudflare": [
+                "OTP"
+            ],
+            "G-Core": [
+                "bu2"
+            ],
+            "Edgecast": [
+                "otp"
+            ],
+            "Bunny": [
+                "bu1"
+            ],
+            "CacheFly": [
+                "otp"
+            ],
+            "CDN77": [
+                "bucharestro"
+            ],
+            "KeyCDN": [
+                "robu"
+            ]
+        },
+        "coordinates": [
+            26.1025,
+            44.4268
+        ]
+    },
+    {
+        "name": "sofia",
+        "cdn": {
+            "G-Core": [
+                "tsc"
+            ],
+            "Fastly": [
+                "SOF"
+            ],
+            "CDN77": [
+                "sofiabg"
+            ],
+            "CacheFly": [
+                "sof"
+            ],
+            "Edgecast": [
+                "sof"
+            ],
+            "Sucuri": [
+                "21"
+            ],
+            "Cloudflare": [
+                "SOF"
+            ],
+            "CloudFront": [
+                "sof"
+            ]
+        },
+        "continent": "EU",
+        "coordinates": [
+            23.3219,
+            42.6977
+        ]
+    },
+    {
+        "name": "helsinki",
+        "continent": "EU",
+        "coordinates": [
+            24.9384,
+            60.1699
+        ],
+        "cdn": {
+            "Cloudflare": [
+                "HEL"
+            ],
+            "CacheFly": [
+                "hel"
+            ],
+            "Edgecast": [
+                "hel"
+            ],
+            "Fastly": [
+                "HEL"
+            ],
+            "CloudFront": [
+                "hel"
+            ],
+            "Bunny": [
+                "fi1"
+            ],
+            "KeyCDN": [
+                "fihe"
+            ]
+        }
+    },
+    {
+        "name": "marseille",
+        "continent": "EU",
+        "cdn": {
+            "CloudFront": [
+                "mrs"
+            ],
+            "Fastly": [
+                "MRS"
+            ],
+            "G-Core": [
+                "mrs2"
+            ],
+            "Cloudflare": [
+                "MRS"
+            ],
+            "CDN77": [
+                "marseillefr"
+            ],
+            "Edgecast": [
+                "mrs"
+            ],
+            "Limelight": [
+                "mrs"
+            ]
+        },
+        "coordinates": [
+            5.3698,
+            43.2965
+        ]
+    },
+    {
+        "name": "zurich",
+        "cdn": {
+            "KeyCDN": [
+                "chzh"
+            ],
+            "Cloudflare": [
+                "ZRH"
+            ],
+            "Limelight": [
+                "zrh"
+            ],
+            "Bunny": [
+                "ch1"
+            ],
+            "CDN77": [
+                "zurichch"
+            ],
+            "CacheFly": [
+                "zrh"
+            ],
+            "CloudFront": [
+                "zrh"
+            ]
+        },
+        "continent": "EU",
+        "coordinates": [
+            8.5417,
+            47.3769
+        ]
+    },
+    {
+        "name": "copenhagen",
+        "coordinates": [
+            12.5683,
+            55.6761
+        ],
+        "continent": "EU",
+        "cdn": {
+            "Bunny": [
+                "dk1"
+            ],
+            "CloudFront": [
+                "cph"
+            ],
+            "Fastly": [
+                "CPH"
+            ],
+            "Edgecast": [
+                "cph"
+            ],
+            "Cloudflare": [
+                "CPH"
+            ],
+            "ArvanCloud": [
+                "6450"
+            ]
+        }
+    },
+    {
+        "name": "lisbon",
+        "coordinates": [
+            -9.1393,
+            38.7223
+        ],
+        "continent": "EU",
+        "cdn": {
+            "Edgecast": [
+                "lis"
+            ],
+            "Cloudflare": [
+                "LIS"
+            ],
+            "CacheFly": [
+                "lis"
+            ],
+            "Bunny": [
+                "pt1"
+            ],
+            "Fastly": [
+                "LIS"
+            ],
+            "CloudFront": [
+                "lis"
+            ]
+        }
+    },
+    {
+        "name": "manchester",
+        "coordinates": [
+            -2.2426,
+            53.4808
+        ],
+        "continent": "EU",
+        "cdn": {
+            "CloudFront": [
+                "man"
+            ],
+            "Cloudflare": [
+                "MAN"
+            ],
+            "Limelight": [
+                "man"
+            ],
+            "Fastly": [
+                "MAN"
+            ],
+            "Edgecast": [
+                "lpl"
+            ]
+        }
+    },
+    {
+        "name": "moscow",
+        "coordinates": [
+            37.6173,
+            55.7558
+        ],
+        "continent": "EU",
+        "cdn": {
+            "Cloudflare": [
+                "DME"
+            ],
+            "G-Core": [
+                "m9p",
+                "m9",
+                "lx",
+                "dt"
+            ],
+            "CDN77": [
+                "moscow_6_ru"
+            ],
+            "ArvanCloud": [
+                "6750"
+            ],
+            "CacheFly": [
+                "dme"
+            ]
+        }
+    },
+    {
+        "name": "oslo",
+        "cdn": {
+            "CloudFront": [
+                "osl"
+            ],
+            "Bunny": [
+                "no1"
+            ],
+            "Fastly": [
+                "OSL"
+            ],
+            "KeyCDN": [
+                "noos"
+            ],
+            "Cloudflare": [
+                "OSL"
+            ]
+        },
+        "coordinates": [
+            10.7522,
+            59.9139
+        ],
+        "continent": "EU"
+    },
+    {
+        "name": "prague",
+        "continent": "EU",
+        "cdn": {
+            "CloudFront": [
+                "prg"
+            ],
+            "G-Core": [
+                "cec"
+            ],
+            "Bunny": [
+                "cz1"
+            ],
+            "CDN77": [
+                "praguecz"
+            ],
+            "Cloudflare": [
+                "PRG"
+            ]
+        },
+        "coordinates": [
+            17.1077,
+            48.1486
+        ]
+    },
+    {
+        "name": "budapest",
+        "coordinates": [
+            19.0402,
+            47.4979
+        ],
+        "cdn": {
+            "CloudFront": [
+                "bud"
+            ],
+            "Bunny": [
+                "hu1"
+            ],
+            "Cloudflare": [
+                "BUD"
+            ],
+            "G-Core": [
+                "bix"
+            ]
+        },
+        "continent": "EU"
+    },
+    {
+        "name": "munich",
+        "continent": "EU",
+        "coordinates": [
+            11.582,
+            48.1351
+        ],
+        "cdn": {
+            "Edgecast": [
+                "muc"
+            ],
+            "CloudFront": [
+                "muc"
+            ],
+            "Fastly": [
+                "MUC"
+            ],
+            "Cloudflare": [
+                "MUC"
+            ]
+        }
+    },
+    {
+        "name": "palermo",
+        "coordinates": [
+            13.3615,
+            38.1157
+        ],
+        "continent": "EU",
+        "cdn": {
+            "Limelight": [
+                "pmo"
+            ],
+            "Cloudflare": [
+                "PMO"
+            ],
+            "Fastly": [
+                "PMO"
+            ],
+            "CacheFly": [
+                "pmo"
+            ]
+        }
+    },
+    {
+        "name": "rome",
+        "continent": "EU",
+        "cdn": {
+            "CloudFront": [
+                "fco"
+            ],
+            "Cloudflare": [
+                "FCO"
+            ],
+            "Fastly": [
+                "FCO"
+            ],
+            "Limelight": [
+                "fco"
+            ]
+        },
+        "coordinates": [
+            12.4964,
+            41.9028
+        ]
+    },
+    {
+        "name": "vilnius",
+        "cdn": {
+            "Bunny": [
+                "lt1"
+            ],
+            "CacheFly": [
+                "vno"
+            ],
+            "Cloudflare": [
+                "VNO"
+            ],
+            "G-Core": [
+                "rtc"
+            ]
+        },
+        "coordinates": [
+            25.2797,
+            54.6872
+        ],
+        "continent": "EU"
+    },
+    {
+        "name": "athens",
+        "coordinates": [
+            23.7275,
+            37.9838
+        ],
+        "continent": "EU",
+        "cdn": {
+            "KeyCDN": [
+                "grat"
+            ],
+            "Cloudflare": [
+                "ATH"
+            ],
+            "CloudFront": [
+                "ath"
+            ]
+        }
+    },
+    {
+        "name": "brussels",
+        "coordinates": [
+            4.3572,
+            50.8476
+        ],
+        "continent": "EU",
+        "cdn": {
+            "Cloudflare": [
+                "BRU"
+            ],
+            "CloudFront": [
+                "bru"
+            ],
+            "Fastly": [
+                "BRU"
+            ]
+        }
+    },
+    {
+        "name": "dublin",
+        "continent": "EU",
+        "cdn": {
+            "Cloudflare": [
+                "DUB"
+            ],
+            "Fastly": [
+                "DUB"
+            ],
+            "CloudFront": [
+                "dub"
+            ]
+        },
+        "coordinates": [
+            -6.2603,
+            53.3498
+        ]
+    },
+    {
+        "name": "dusseldorf",
+        "coordinates": [
+            6.7735,
+            51.2277
+        ],
+        "cdn": {
+            "Limelight": [
+                "dus"
+            ],
+            "Cloudflare": [
+                "DUS"
+            ],
+            "CloudFront": [
+                "dus"
+            ]
+        },
+        "continent": "EU"
+    },
+    {
+        "name": "kiev",
+        "continent": "EU",
+        "coordinates": [
+            30.5234,
+            50.4501
+        ],
+        "cdn": {
+            "Bunny": [
+                "ua1"
+            ],
+            "CDN77": [
+                "kievua"
+            ],
+            "Cloudflare": [
+                "KBP"
+            ]
+        }
+    },
+    {
+        "name": "saint petersburg",
+        "cdn": {
+            "Cloudflare": [
+                "LED"
+            ],
+            "CacheFly": [
+                "led"
+            ],
+            "G-Core": [
+                "k12"
+            ]
+        },
+        "coordinates": [
+            30.3609,
+            59.9311
+        ],
+        "continent": "EU"
+    },
+    {
+        "name": "barcelona",
+        "continent": "EU",
+        "coordinates": [
+            2.1686,
+            41.3874
+        ],
+        "cdn": {
+            "Cloudflare": [
+                "BCN"
+            ],
+            "ArvanCloud": [
+                "6850"
+            ]
+        }
+    },
+    {
+        "name": "belgrade",
+        "coordinates": [
+            20.4612,
+            44.8125
+        ],
+        "continent": "EU",
+        "cdn": {
+            "Cloudflare": [
+                "BEG"
+            ],
+            "Bunny": [
+                "rs1",
+                "bg1"
+            ]
+        }
+    },
+    {
+        "name": "berlin",
+        "continent": "EU",
+        "coordinates": [
+            13.405,
+            52.52
+        ],
+        "cdn": {
+            "CloudFront": [
+                "txl"
+            ],
+            "Cloudflare": [
+                "TXL"
+            ]
+        }
+    },
+    {
+        "name": "hamburg",
+        "cdn": {
+            "Cloudflare": [
+                "HAM"
+            ],
+            "CloudFront": [
+                "ham"
+            ]
+        },
+        "coordinates": [
+            9.9937,
+            53.5511
+        ],
+        "continent": "EU"
+    },
+    {
+        "name": "luxembourg",
+        "continent": "EU",
+        "coordinates": [
+            6.1296,
+            49.8153
+        ],
+        "cdn": {
+            "G-Core": [
+                "ed"
+            ],
+            "Cloudflare": [
+                "LUX"
+            ]
+        }
+    },
+    {
+        "name": "minsk",
+        "continent": "EU",
+        "cdn": {
+            "Cloudflare": [
+                "MSQ"
+            ],
+            "CDN77": [
+                "minskby"
+            ]
+        },
+        "coordinates": [
+            27.559,
+            53.9006
+        ]
+    },
+    {
+        "name": "riga",
+        "continent": "EU",
+        "coordinates": [
+            24.1052,
+            56.9496
+        ],
+        "cdn": {
+            "Edgecast": [
+                "rix"
+            ],
+            "Cloudflare": [
+                "RIX"
+            ]
+        }
+    },
+    {
+        "name": "bratislava",
+        "cdn": {
+            "CDN77": [
+                "bratislavask"
+            ]
+        },
+        "coordinates": [
+            17.1077,
+            48.1486
+        ],
+        "continent": "EU"
+    },
+    {
+        "name": "edinburgh",
+        "cdn": {
+            "Cloudflare": [
+                "EDI"
+            ]
+        },
+        "coordinates": [
+            -3.1883,
+            55.9533
+        ],
+        "continent": "EU"
+    },
+    {
+        "name": "geneva",
+        "cdn": {
+            "Cloudflare": [
+                "GVA"
+            ]
+        },
+        "continent": "EU",
+        "coordinates": [
+            6.1432,
+            46.2044
+        ]
+    },
+    {
+        "name": "gothenburg",
+        "continent": "EU",
+        "cdn": {
+            "Cloudflare": [
+                "GOT"
+            ]
+        },
+        "coordinates": [
+            11.9746,
+            57.7089
+        ]
+    },
+    {
+        "name": "tallinn",
+        "cdn": {
+            "Cloudflare": [
+                "TLL"
+            ]
+        },
+        "coordinates": [
+            24.7536,
+            59.437
+        ],
+        "continent": "EU"
+    },
+    {
+        "name": "thessaloniki",
+        "coordinates": [
+            22.9444,
+            40.6401
+        ],
+        "cdn": {
+            "Cloudflare": [
+                "SKG"
+            ]
+        },
+        "continent": "EU"
+    }
+]

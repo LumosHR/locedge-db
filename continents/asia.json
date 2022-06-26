@@ -1,0 +1,868 @@
+[
+    {
+        "name": "singapore",
+        "cdn": {
+            "Fastly": [
+                "QPG"
+            ],
+            "Limelight": [
+                "sin"
+            ],
+            "Bunny": [
+                "sg1"
+            ],
+            "ArvanCloud": [
+                "7150"
+            ],
+            "CloudFront": [
+                "sin"
+            ],
+            "Cloudflare": [
+                "SIN"
+            ],
+            "StackPath": [
+                "si"
+            ],
+            "CDN77": [
+                "singapore2sg"
+            ],
+            "Edgecast": [
+                "sgb",
+                "sgd",
+                "sgc",
+                "sin"
+            ],
+            "Beluga": [
+                "adb5d13f-425d-407d-b3f5-55ebb0d90e07"
+            ],
+            "Tata": [
+                "sin"
+            ],
+            "G-Core": [
+                "sg1",
+                "sgc"
+            ],
+            "KeyCDN": [
+                "sgsg"
+            ],
+            "CacheFly": [
+                "sin"
+            ],
+            "Sucuri": [
+                "18"
+            ]
+        },
+        "coordinates": [
+            103.8198,
+            1.3521
+        ],
+        "continent": "AS"
+    },
+    {
+        "name": "tokyo",
+        "cdn": {
+            "CDN77": [
+                "tokyojp"
+            ],
+            "CacheFly": [
+                "tko"
+            ],
+            "CloudFront": [
+                "nrt"
+            ],
+            "StackPath": [
+                "tk"
+            ],
+            "Sucuri": [
+                "16"
+            ],
+            "Tata": [
+                "nrt"
+            ],
+            "Beluga": [
+                "1afcf95f-cead-485f-a536-05a2ad3bc7f9"
+            ],
+            "Fastly": [
+                "HND",
+                "NRT",
+                "TYO"
+            ],
+            "G-Core": [
+                "cc1"
+            ],
+            "Edgecast": [
+                "tka",
+                "tkb",
+                "tkc",
+                "hnd",
+                "nrt"
+            ],
+            "KeyCDN": [
+                "jptk"
+            ],
+            "ArvanCloud": [
+                "7050"
+            ],
+            "Cloudflare": [
+                "NRT"
+            ]
+        },
+        "continent": "AS",
+        "coordinates": [
+            139.6503,
+            35.6762
+        ]
+    },
+    {
+        "name": "hong kong",
+        "continent": "AS",
+        "cdn": {
+            "Limelight": [
+                "hkg"
+            ],
+            "Bunny": [
+                "hk1"
+            ],
+            "ArvanCloud": [
+                "7750"
+            ],
+            "Edgecast": [
+                "hhp",
+                "hkc",
+                "hkg"
+            ],
+            "G-Core": [
+                "hk2",
+                "gnc"
+            ],
+            "CloudFront": [
+                "hkg"
+            ],
+            "CDN77": [
+                "hongkonghk"
+            ],
+            "CacheFly": [
+                "hkg"
+            ],
+            "KeyCDN": [
+                "cnhk"
+            ],
+            "Fastly": [
+                "HKG"
+            ],
+            "StackPath": [
+                "hk"
+            ],
+            "Tata": [
+                "hkg"
+            ]
+        },
+        "coordinates": [
+            114.1694,
+            22.3193
+        ]
+    },
+    {
+        "name": "mumbai",
+        "coordinates": [
+            72.8777,
+            19.076
+        ],
+        "cdn": {
+            "CDN77": [
+                "mumbaiin"
+            ],
+            "Limelight": [
+                "bom"
+            ],
+            "Edgecast": [
+                "nag",
+                "pnq"
+            ],
+            "Sucuri": [
+                "22"
+            ],
+            "CloudFront": [
+                "bom"
+            ],
+            "ArvanCloud": [
+                "7350"
+            ],
+            "Cloudflare": [
+                "BOM"
+            ],
+            "Fastly": [
+                "BOM"
+            ],
+            "CacheFly": [
+                "bom"
+            ],
+            "Bunny": [
+                "mu1"
+            ],
+            "Tata": [
+                "bom"
+            ],
+            "G-Core": [
+                "ww"
+            ]
+        },
+        "continent": "AS"
+    },
+    {
+        "name": "seoul",
+        "coordinates": [
+            126.978,
+            37.5665
+        ],
+        "cdn": {
+            "CacheFly": [
+                "icn"
+            ],
+            "Edgecast": [
+                "icn"
+            ],
+            "StackPath": [
+                "sl"
+            ],
+            "G-Core": [
+                "kx"
+            ],
+            "Limelight": [
+                "icn"
+            ],
+            "Bunny": [
+                "kr1"
+            ],
+            "Fastly": [
+                "ICN"
+            ],
+            "Beluga": [
+                "c1576c69-4e67-4e7e-8bbb-45fe18a41898"
+            ],
+            "Cloudflare": [
+                "ICN"
+            ]
+        },
+        "continent": "AS"
+    },
+    {
+        "name": "dubai",
+        "coordinates": [
+            55.2708,
+            25.2048
+        ],
+        "continent": "AS",
+        "cdn": {
+            "Cloudflare": [
+                "DXB"
+            ],
+            "Fastly": [
+                "DXB",
+                "FJR"
+            ],
+            "ArvanCloud": [
+                "4250"
+            ],
+            "Limelight": [
+                "dxb"
+            ],
+            "CacheFly": [
+                "dxb"
+            ],
+            "KeyCDN": [
+                "aedu"
+            ],
+            "Bunny": [
+                "ae1"
+            ],
+            "CloudFront": [
+                "dxb"
+            ]
+        }
+    },
+    {
+        "name": "istanbul",
+        "continent": "AS",
+        "cdn": {
+            "KeyCDN": [
+                "tris"
+            ],
+            "Bunny": [
+                "tr1"
+            ],
+            "ArvanCloud": [
+                "4100"
+            ],
+            "G-Core": [
+                "tii"
+            ],
+            "Cloudflare": [
+                "IST"
+            ],
+            "Limelight": [
+                "ist"
+            ],
+            "CDN77": [
+                "istanbultr"
+            ],
+            "CacheFly": [
+                "ist"
+            ]
+        },
+        "coordinates": [
+            28.9784,
+            41.0082
+        ]
+    },
+    {
+        "name": "new delhi",
+        "coordinates": [
+            77.209,
+            28.6139
+        ],
+        "cdn": {
+            "Edgecast": [
+                "ndl"
+            ],
+            "Cloudflare": [
+                "DEL"
+            ],
+            "Limelight": [
+                "ndl"
+            ],
+            "G-Core": [
+                "sum"
+            ],
+            "CloudFront": [
+                "del"
+            ],
+            "Fastly": [
+                "DEL"
+            ],
+            "Tata": [
+                "del"
+            ],
+            "Bunny": [
+                "nd1"
+            ]
+        },
+        "continent": "AS"
+    },
+    {
+        "name": "bangkok",
+        "continent": "AS",
+        "coordinates": [
+            100.5018,
+            13.7563
+        ],
+        "cdn": {
+            "Bunny": [
+                "th1"
+            ],
+            "Cloudflare": [
+                "BKK"
+            ],
+            "CloudFront": [
+                "bkk"
+            ],
+            "Edgecast": [
+                "bkk"
+            ],
+            "Limelight": [],
+            "G-Core": [
+                "tidc"
+            ],
+            "CacheFly": [
+                "bkk"
+            ]
+        }
+    },
+    {
+        "name": "manila",
+        "cdn": {
+            "Bunny": [
+                "ph1"
+            ],
+            "Fastly": [
+                "MNL"
+            ],
+            "Edgecast": [
+                "mnl"
+            ],
+            "Limelight": [
+                "mnl"
+            ],
+            "G-Core": [
+                "pns"
+            ],
+            "Cloudflare": [
+                "MNL"
+            ],
+            "CloudFront": [
+                "mnl"
+            ]
+        },
+        "continent": "AS",
+        "coordinates": [
+            120.9842,
+            14.5995
+        ]
+    },
+    {
+        "name": "tel aviv",
+        "coordinates": [
+            34.7818,
+            32.0853
+        ],
+        "continent": "AS",
+        "cdn": {
+            "Cloudflare": [
+                "TLV"
+            ],
+            "Limelight": [
+                "tlv"
+            ],
+            "G-Core": [
+                "bzi"
+            ],
+            "CloudFront": [
+                "tlv"
+            ],
+            "KeyCDN": [
+                "ilta"
+            ],
+            "Bunny": [
+                "isr1"
+            ],
+            "CacheFly": [
+                "tlv"
+            ]
+        }
+    },
+    {
+        "name": "jakarta",
+        "cdn": {
+            "Bunny": [
+                "id1"
+            ],
+            "CDN77": [
+                "jakartaid"
+            ],
+            "Cloudflare": [
+                "CGK"
+            ],
+            "Edgecast": [
+                "cgk"
+            ],
+            "CloudFront": [
+                "cgk"
+            ],
+            "CacheFly": [
+                "cgk"
+            ]
+        },
+        "coordinates": [
+            106.8456,
+            -6.2088
+        ],
+        "continent": "AS"
+    },
+    {
+        "name": "chennai",
+        "continent": "AS",
+        "cdn": {
+            "Edgecast": [
+                "tir",
+                "maa"
+            ],
+            "Fastly": [
+                "MAA"
+            ],
+            "CloudFront": [
+                "maa"
+            ],
+            "Limelight": [
+                "maa"
+            ],
+            "Cloudflare": [
+                "MAA"
+            ]
+        },
+        "coordinates": [
+            80.2707,
+            13.0827
+        ]
+    },
+    {
+        "name": "osaka",
+        "coordinates": [
+            135.5023,
+            34.6937
+        ],
+        "continent": "AS",
+        "cdn": {
+            "Limelight": [
+                "kix"
+            ],
+            "Fastly": [
+                "ITM"
+            ],
+            "Edgecast": [
+                "itm",
+                "osa",
+                "kix"
+            ],
+            "Cloudflare": [
+                "KIX"
+            ],
+            "CloudFront": [
+                "kix"
+            ]
+        }
+    },
+    {
+        "name": "bangalore",
+        "coordinates": [
+            77.5946,
+            12.9716
+        ],
+        "continent": "AS",
+        "cdn": {
+            "KeyCDN": [
+                "inba"
+            ],
+            "Tata": [
+                "blr"
+            ],
+            "Edgecast": [
+                "blr"
+            ],
+            "Cloudflare": [
+                "BLR"
+            ]
+        }
+    },
+    {
+        "name": "doha",
+        "continent": "AS",
+        "coordinates": [
+            51.531,
+            25.2854
+        ],
+        "cdn": {
+            "Limelight": [
+                "doh"
+            ],
+            "CDN77": [
+                "dohaqa"
+            ],
+            "CacheFly": [
+                "DOH"
+            ],
+            "Cloudflare": [
+                "DOH"
+            ]
+        }
+    },
+    {
+        "name": "kuala lumpur",
+        "continent": "AS",
+        "cdn": {
+            "Fastly": [
+                "KUL"
+            ],
+            "Limelight": [
+                "kul"
+            ],
+            "Cloudflare": [
+                "KUL"
+            ],
+            "CloudFront": [
+                "kul"
+            ]
+        },
+        "coordinates": [
+            101.6869,
+            3.139
+        ]
+    },
+    {
+        "name": "riyadh",
+        "continent": "AS",
+        "cdn": {
+            "Cloudflare": [
+                "RUH"
+            ],
+            "Bunny": [
+                "ri1"
+            ],
+            "Limelight": [
+                "ruh"
+            ],
+            "CacheFly": [
+                "ruh"
+            ]
+        },
+        "coordinates": [
+            46.6753,
+            24.7136
+        ]
+    },
+    {
+        "name": "hyderabad",
+        "cdn": {
+            "Fastly": [
+                "HYD"
+            ],
+            "Cloudflare": [
+                "HYD"
+            ],
+            "CloudFront": [
+                "hyd"
+            ]
+        },
+        "continent": "AS",
+        "coordinates": [
+            78.4867,
+            17.385
+        ]
+    },
+    {
+        "name": "kolkata",
+        "cdn": {
+            "Cloudflare": [
+                "CCU"
+            ],
+            "Fastly": [
+                "CCU"
+            ],
+            "CloudFront": [
+                "ccu"
+            ]
+        },
+        "coordinates": [
+            88.3639,
+            22.5726
+        ],
+        "continent": "AS"
+    },
+    {
+        "name": "muscat",
+        "coordinates": [
+            58.3829,
+            23.588
+        ],
+        "cdn": {
+            "Cloudflare": [
+                "MCT"
+            ],
+            "Edgecast": [
+                "omm"
+            ],
+            "G-Core": [
+                "omt"
+            ]
+        },
+        "continent": "AS"
+    },
+    {
+        "name": "taipei",
+        "coordinates": [
+            121.5654,
+            25.033
+        ],
+        "continent": "AS",
+        "cdn": {
+            "Bunny": [
+                "tw1"
+            ],
+            "Edgecast": [
+                "tpe"
+            ],
+            "CloudFront": [
+                "tpe"
+            ]
+        }
+    },
+    {
+        "name": "hanoi",
+        "continent": "AS",
+        "cdn": {
+            "G-Core": [
+                "cmhl"
+            ],
+            "Cloudflare": [
+                "HAN"
+            ]
+        },
+        "coordinates": [
+            105.8342,
+            21.0278
+        ]
+    },
+    {
+        "name": "ho chi minh",
+        "continent": "AS",
+        "cdn": {
+            "Bunny": [
+                "vn1"
+            ],
+            "Cloudflare": [
+                "SGN"
+            ]
+        },
+        "coordinates": [
+            106.6297,
+            10.8231
+        ]
+    },
+    {
+        "name": "jeddah",
+        "continent": "AS",
+        "cdn": {
+            "CDN77": [
+                "jeddahsa"
+            ],
+            "Tata": [
+                "jed"
+            ]
+        },
+        "coordinates": [
+            39.1925,
+            21.4858
+        ]
+    },
+    {
+        "name": "karachi",
+        "continent": "AS",
+        "cdn": {
+            "Cloudflare": [
+                "KHI"
+            ],
+            "Bunny": [
+                "pk1"
+            ]
+        },
+        "coordinates": [
+            67.0011,
+            24.8607
+        ]
+    },
+    {
+        "name": "kuwait city",
+        "cdn": {
+            "Cloudflare": [
+                "KWI"
+            ],
+            "Edgecast": [
+                "xij"
+            ]
+        },
+        "coordinates": [
+            47.9774,
+            29.3759
+        ],
+        "continent": "AS"
+    },
+    {
+        "name": "lahore",
+        "cdn": {
+            "G-Core": [
+                "eti"
+            ],
+            "Cloudflare": [
+                "LHE"
+            ]
+        },
+        "coordinates": [
+            74.3587,
+            31.5204
+        ],
+        "continent": "AS"
+    },
+    {
+        "name": "bahrain",
+        "continent": "AS",
+        "coordinates": [
+            50.5577,
+            26.0667
+        ],
+        "cdn": {
+            "CloudFront": [
+                "bah"
+            ]
+        }
+    },
+    {
+        "name": "islamabad",
+        "cdn": {
+            "Cloudflare": [
+                "ISB"
+            ]
+        },
+        "continent": "AS",
+        "coordinates": [
+            73.0479,
+            33.6844
+        ]
+    },
+    {
+        "name": "cyprus",
+        "continent": "EU",
+        "coordinates": [
+            33.4299,
+            35.1264
+        ],
+        "cdn": {
+            "G-Core": [
+                "cyta"
+            ]
+        }
+    },
+    {
+        "name": "tbilisi",
+        "coordinates": [
+            44.8271,
+            41.7151
+        ],
+        "continent": "EU",
+        "cdn": {
+            "Cloudflare": [
+                "TBS"
+            ]
+        }
+    },
+    {
+        "name": "novosibirsk",
+        "cdn": {
+            "G-Core": [
+                "nx"
+            ]
+        },
+        "coordinates": [
+            82.8964,
+            54.9833
+        ],
+        "continent": "EU"
+    },
+    {
+        "name": "fujairah",
+        "cdn": {
+            "CloudFront": [
+                "fjr"
+            ],
+            "Edgecast": [
+                "uae"
+            ],
+            "CDN77": [
+                "fujairahae"
+            ]
+        },
+        "continent": "SA",
+        "coordinates": [
+            56.3265,
+            25.1288
+        ]
+    }
+]

@@ -1,0 +1,205 @@
+[
+    {
+        "name": "sydney",
+        "coordinates": [
+            151.2093,
+            -33.8688
+        ],
+        "cdn": {
+            "StackPath": [
+                "sy"
+            ],
+            "CDN77": [
+                "sydneyau"
+            ],
+            "Bunny": [
+                "syd1"
+            ],
+            "Limelight": [
+                "syd"
+            ],
+            "Cloudflare": [
+                "SYD"
+            ],
+            "CloudFront": [
+                "syd"
+            ],
+            "G-Core": [
+                "sy4"
+            ],
+            "Edgecast": [
+                "nwa",
+                "sya",
+                "syd"
+            ],
+            "KeyCDN": [
+                "ausy"
+            ],
+            "Beluga": [
+                "dbfad8fd-2159-4261-849c-563ccd8d89f6"
+            ],
+            "CacheFly": [
+                "syd"
+            ],
+            "Fastly": [
+                "SYD"
+            ],
+            "ArvanCloud": [
+                "7250"
+            ],
+            "Tata": [
+                "syd"
+            ]
+        },
+        "continent": "OC"
+    },
+    {
+        "name": "melbourne",
+        "cdn": {
+            "CloudFront": [
+                "mel"
+            ],
+            "Cloudflare": [
+                "MEL"
+            ],
+            "G-Core": [
+                "mdc"
+            ],
+            "StackPath": [
+                "me"
+            ],
+            "KeyCDN": [
+                "aume"
+            ],
+            "CacheFly": [
+                "mel"
+            ],
+            "Fastly": [
+                "MEL"
+            ],
+            "Bunny": [
+                "mel1"
+            ],
+            "Edgecast": [
+                "mbw",
+                "meb",
+                "mel"
+            ]
+        },
+        "continent": "OC",
+        "coordinates": [
+            144.9631,
+            -37.8136
+        ]
+    },
+    {
+        "name": "perth",
+        "cdn": {
+            "KeyCDN": [
+                "aupe"
+            ],
+            "CacheFly": [
+                "per"
+            ],
+            "Cloudflare": [
+                "PER"
+            ],
+            "CloudFront": [
+                "per"
+            ],
+            "Fastly": [
+                "PER"
+            ],
+            "Bunny": [
+                "per1"
+            ]
+        },
+        "continent": "OC",
+        "coordinates": [
+            115.8613,
+            -31.9523
+        ]
+    },
+    {
+        "name": "auckland",
+        "cdn": {
+            "Edgecast": [
+                "akl"
+            ],
+            "Cloudflare": [
+                "AKL"
+            ],
+            "Fastly": [
+                "AKL"
+            ],
+            "CloudFront": [
+                "akl"
+            ],
+            "KeyCDN": [
+                "nzau"
+            ]
+        },
+        "continent": "OC",
+        "coordinates": [
+            174.7645,
+            -36.8509
+        ]
+    },
+    {
+        "name": "adelaide",
+        "continent": "OC",
+        "cdn": {
+            "CacheFly": [
+                "mel"
+            ],
+            "Fastly": [
+                "ADL"
+            ],
+            "Bunny": [
+                "adl1"
+            ],
+            "Cloudflare": [
+                "ADL"
+            ]
+        },
+        "coordinates": [
+            138.6007,
+            -34.9285
+        ]
+    },
+    {
+        "name": "brisbane",
+        "coordinates": [
+            153.026,
+            -27.4705
+        ],
+        "continent": "OC",
+        "cdn": {
+            "KeyCDN": [
+                "aubr"
+            ],
+            "Bunny": [
+                "brb1"
+            ],
+            "Fastly": [
+                "BNE"
+            ],
+            "Cloudflare": [
+                "BNE"
+            ]
+        }
+    },
+    {
+        "name": "canberra",
+        "continent": "OC",
+        "coordinates": [
+            149.131,
+            -35.2802
+        ],
+        "cdn": {
+            "Cloudflare": [
+                "CBR"
+            ]
+        }
+    }
+]

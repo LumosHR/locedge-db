@@ -1,0 +1,366 @@
+[
+    {
+        "name": "sao paulo",
+        "continent": "SA",
+        "coordinates": [
+            -46.6396,
+            -23.5558
+        ],
+        "cdn": {
+            "CDN77": [
+                "saopaulobr"
+            ],
+            "CloudFront": [
+                "gru"
+            ],
+            "CacheFly": [
+                "gru"
+            ],
+            "Limelight": [
+                "gru"
+            ],
+            "ArvanCloud": [
+                "9050"
+            ],
+            "Tata": [
+                "gru"
+            ],
+            "G-Core": [
+                "sp3"
+            ],
+            "Edgecast": [
+                "spb",
+                "cgh",
+                "gru"
+            ],
+            "KeyCDN": [
+                "brsp"
+            ],
+            "Cloudflare": [
+                "GRU"
+            ],
+            "Fastly": [
+                "CGH",
+                "GRU"
+            ],
+            "Bunny": [
+                "br1"
+            ],
+            "StackPath": [
+                "sp"
+            ]
+        }
+    },
+    {
+        "name": "santiago",
+        "continent": "SA",
+        "cdn": {
+            "Cloudflare": [
+                "SCL"
+            ],
+            "CDN77": [
+                "santiagocl"
+            ],
+            "Fastly": [
+                "SCL"
+            ],
+            "StackPath": [
+                "sc"
+            ],
+            "Edgecast": [
+                "vap"
+            ],
+            "CloudFront": [
+                "scl"
+            ],
+            "Limelight": [
+                "scl"
+            ],
+            "G-Core": [
+                "sdch"
+            ],
+            "KeyCDN": [
+                "clsa"
+            ],
+            "CacheFly": [
+                "scl"
+            ]
+        },
+        "coordinates": [
+            -70.6693,
+            -33.4489
+        ]
+    },
+    {
+        "name": "buenos aires",
+        "coordinates": [
+            -58.3816,
+            -34.6037
+        ],
+        "cdn": {
+            "StackPath": [
+                "ez"
+            ],
+            "Bunny": [
+                "ar1"
+            ],
+            "Limelight": [
+                "eze"
+            ],
+            "CacheFly": [
+                "eze"
+            ],
+            "Edgecast": [
+                "bue",
+                "eze"
+            ],
+            "Fastly": [
+                "EZE"
+            ],
+            "CloudFront": [
+                "eze"
+            ],
+            "CDN77": [
+                "buenosairesar"
+            ],
+            "Cloudflare": [
+                "EZE"
+            ]
+        },
+        "continent": "SA"
+    },
+    {
+        "name": "fortaleza",
+        "continent": "SA",
+        "coordinates": [
+            -38.527,
+            -3.7327
+        ],
+        "cdn": {
+            "Fastly": [
+                "FOR"
+            ],
+            "Cloudflare": [
+                "FOR"
+            ],
+            "G-Core": [
+                "flz"
+            ],
+            "Bunny": [
+                "fo1"
+            ],
+            "CloudFront": [
+                "for"
+            ],
+            "Limelight": [
+                "for"
+            ],
+            "Edgecast": [
+                "for"
+            ],
+            "CacheFly": [
+                "for"
+            ]
+        }
+    },
+    {
+        "name": "rio de janeiro",
+        "cdn": {
+            "Edgecast": [
+                "rib",
+                "gig"
+            ],
+            "G-Core": [
+                "rj2"
+            ],
+            "Fastly": [
+                "GIG"
+            ],
+            "StackPath": [
+                "gi"
+            ],
+            "CacheFly": [
+                "gig"
+            ],
+            "Bunny": [
+                "rj1"
+            ],
+            "Cloudflare": [
+                "GIG"
+            ],
+            "CloudFront": [
+                "gig"
+            ]
+        },
+        "continent": "SA",
+        "coordinates": [
+            -43.1729,
+            -22.9068
+        ]
+    },
+    {
+        "name": "lima",
+        "coordinates": [
+            -77.0428,
+            -12.0464
+        ],
+        "cdn": {
+            "StackPath": [
+                "li"
+            ],
+            "Bunny": [
+                "pe1"
+            ],
+            "Cloudflare": [
+                "LIM"
+            ],
+            "G-Core": [
+                "llp"
+            ],
+            "Fastly": [
+                "LIM"
+            ],
+            "Edgecast": [
+                "jau",
+                "lim"
+            ],
+            "CacheFly": [
+                "lim"
+            ]
+        },
+        "continent": "SA"
+    },
+    {
+        "name": "bogota",
+        "coordinates": [
+            -74.0721,
+            4.711
+        ],
+        "continent": "SA",
+        "cdn": {
+            "CDN77": [
+                "bogotaco"
+            ],
+            "Limelight": [
+                "bog"
+            ],
+            "Edgecast": [
+                "bog"
+            ],
+            "StackPath": [
+                "bo"
+            ],
+            "Fastly": [
+                "BOG"
+            ],
+            "Bunny": [
+                "co1"
+            ]
+        }
+    },
+    {
+        "name": "medellin",
+        "coordinates": [
+            -75.5658,
+            6.2476
+        ],
+        "cdn": {
+            "CloudFront": [
+                "bog"
+            ],
+            "Edgecast": [
+                "mde"
+            ],
+            "Cloudflare": [
+                "MDE"
+            ],
+            "G-Core": [
+                "inc"
+            ],
+            "CacheFly": [
+                "bog"
+            ]
+        },
+        "continent": "SA"
+    },
+    {
+        "name": "quito",
+        "cdn": {
+            "Cloudflare": [
+                "UIO"
+            ],
+            "CacheFly": [
+                "uio"
+            ],
+            "Edgecast": [
+                "uio"
+            ]
+        },
+        "continent": "SA",
+        "coordinates": [
+            -78.4678,
+            -0.1807
+        ]
+    },
+    {
+        "name": "brasilia",
+        "continent": "SA",
+        "cdn": {
+            "Cloudflare": [
+                "BSB"
+            ],
+            "CacheFly": [
+                "bsb"
+            ]
+        },
+        "coordinates": [
+            -47.8919,
+            -15.7975
+        ]
+    },
+    {
+        "name": "curitiba",
+        "continent": "SA",
+        "coordinates": [
+            -49.27,
+            -25.4372
+        ],
+        "cdn": {
+            "Cloudflare": [
+                "CWB"
+            ],
+            "Fastly": [
+                "CWB"
+            ]
+        }
+    },
+    {
+        "name": "córdoba",
+        "continent": "SA",
+        "coordinates": [
+            -64.1888,
+            -31.4201
+        ],
+        "cdn": {
+            "G-Core": [
+                "syt"
+            ],
+            "Cloudflare": [
+                "COR"
+            ]
+        }
+    },
+    {
+        "name": "campinas",
+        "continent": "SA",
+        "cdn": {
+            "Cloudflare": [
+                "VCP"
+            ]
+        },
+        "coordinates": [
+            -47.0613,
+            -22.9051
+        ]
+    }
+]

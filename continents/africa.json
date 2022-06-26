@@ -1,0 +1,106 @@
+[
+    {
+        "name": "johannesburg",
+        "continent": "AF",
+        "coordinates": [
+            28.0473,
+            -26.2041
+        ],
+        "cdn": {
+            "Fastly": [
+                "JNB"
+            ],
+            "Edgecast": [
+                "jnb"
+            ],
+            "ArvanCloud": [
+                "8050"
+            ],
+            "Cloudflare": [
+                "JNB"
+            ],
+            "CacheFly": [
+                "jnb"
+            ],
+            "KeyCDN": [
+                "zajo"
+            ],
+            "Limelight": [
+                "jnb"
+            ],
+            "Bunny": [
+                "jh1"
+            ],
+            "G-Core": [
+                "jb1"
+            ],
+            "CloudFront": [
+                "jnb"
+            ]
+        }
+    },
+    {
+        "name": "cape town",
+        "cdn": {
+            "Fastly": [
+                "CPT"
+            ],
+            "CloudFront": [
+                "cpt"
+            ],
+            "CDN77": [
+                "capetownza"
+            ],
+            "Cloudflare": [
+                "CPT"
+            ]
+        },
+        "continent": "AF",
+        "coordinates": [
+            18.4241,
+            -33.9249
+        ]
+    },
+    {
+        "name": "nairobi",
+        "continent": "AF",
+        "cdn": {
+            "Edgecast": [
+                "wil"
+            ],
+            "Cloudflare": [
+                "NBO"
+            ]
+        },
+        "coordinates": [
+            36.8219,
+            -1.2921
+        ]
+    },
+    {
+        "name": "cairo",
+        "cdn": {
+            "Bunny": [
+                "eg1"
+            ]
+        },
+        "continent": "AF",
+        "coordinates": [
+            31.2357,
+            30.0444
+        ]
+    },
+    {
+        "name": "tunis",
+        "cdn": {
+            "Cloudflare": [
+                "TUN"
+            ]
+        },
+        "coordinates": [
+            10.1815,
+            36.8065
+        ],
+        "continent": "AF"
+    }
+]
