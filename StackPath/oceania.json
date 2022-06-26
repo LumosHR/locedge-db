@@ -1,1 +1,1 @@
-[{"city":"melbourne","cdn":[{"name":"StackPath","code":["me"]}],"coordinates":[144.9631,-37.8136],"size":9},{"city":"sydney","cdn":[{"name":"StackPath","code":["sy"]}],"coordinates":[151.2093,-33.8688],"size":14}]
+[{"city":"sydney","cdn":[{"name":"StackPath","code":["sy"]}],"coordinates":[151.2093,-33.8688],"size":14},{"city":"melbourne","cdn":[{"name":"StackPath","code":["me"]}],"coordinates":[144.9631,-37.8136],"size":9}]
