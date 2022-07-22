@@ -1,1 +1,1 @@
-{"north-america":{"count":17,"dist":27},"oceania":{"count":4,"dist":6},"europe":{"count":18,"dist":29},"asia":{"count":12,"dist":19},"south-america":{"count":9,"dist":14},"africa":{"count":1,"dist":1}}
+[{"continent":"europe","count":18,"dist":29},{"continent":"north-america","count":17,"dist":27},{"continent":"asia","count":12,"dist":19},{"continent":"south-america","count":9,"dist":14},{"continent":"oceania","count":4,"dist":6},{"continent":"africa","count":1,"dist":1}]
